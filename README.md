@@ -1,0 +1,1 @@
+This is a compilation of different coding ideas following the coding challenges made by Coding Train on youtube. The code is build on Javascript graphical interface framework p5.js to more easily visualize the respective concepts.
